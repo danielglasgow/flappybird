@@ -1,0 +1,1 @@
+Hit enter to start the game. Space bar jumps. Try not to hit the poles!
